@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+One of the most exceptional projects I’ve worked on is AI-Powered Personalized Course Generator, which I designed and developed from the ground up. This platform leverages cutting-edge technologies like Next.js, React, Tailwind CSS, and integrates advanced APIs such as the Gemini API and YouTube API to dynamically curate personalized learning experiences for users.
 
 ## Getting Started
 
